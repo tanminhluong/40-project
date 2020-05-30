@@ -1,0 +1,32 @@
+.artist-section {
+	background-image: url(../images/hanoi.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #FFF;
+	flex-direction: column;
+}
+
+
+
+.artist-section .artist-img{
+	top: 20%;
+	margin-bottom: 30px;
+}
+
+.artist-section p {
+	font-size: 25px;
+	font-weight: 500;
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+
+.artist-section .artist-info {
+	margin-top: 70px;
+	font-size: 22px;
+	font-weight: 400px;
+	text-align: center;
+}
