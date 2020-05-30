@@ -48,12 +48,14 @@
 }
 
 .main-bg-2-info .sub-heading {
-	font-weight: bold;
 	color: #c9c9c9;
-	letter-spacing: 2px;
-	text-transform: uppercase;
-	margin-bottom: 30px;
-	height: 100%;
+    display: block;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: "Roboto",sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 22px;
 }
 
 .main-bg-2-info h1 {
@@ -63,7 +65,7 @@
 
 }
 
-.main-bg-2-info .separate {
+.main-bg-2-info .separater {
 	display: inline-block;
 	background-color: #131313;
 	width: 90px;
@@ -82,17 +84,17 @@
 
 }
 
-.main-bg-2-info a {
+.button-link {
 	color: #000;
 	display: inline-block;
 	border: 1px solid #131313;
-	padding: 18px 44px; 
+	padding: 15px 44px; 
 	box-sizing: border-box;
 	text-transform: uppercase;
 	transition: .3s;
 }
 
-.main-bg-2-info a:hover {
+.button-link:hover {
 	color: #FFF;
 	background: #000;
 }

@@ -1,0 +1,93 @@
+.last-project {
+	padding-top: 100px;
+    padding-bottom: 120px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 50px;
+	margin-right: 50px;
+}
+
+.last-project .section-title {
+	margin-bottom: 60px;
+	
+}
+
+
+.last-project .section-title .separater {
+	display: inline-block;
+	background-color: #131313;
+	width: 90px;
+	height: 2px;
+	margin-bottom: 30px;
+}
+
+.last-project .section-title h1 {
+	margin-bottom: 30px;
+}
+
+
+.last-project .row-align-item {
+	display: flex;
+	margin-bottom: 50px;
+
+}
+
+
+
+.row-align-item .section-title {
+	
+	float: left;
+	flex-grow: 1
+}
+
+.row-align-item .img-card{
+	flex-grow: 1
+}
+
+.item-odd .section-title {
+	margin-top: 60px;
+	margin-left: 3.3333%;
+} 
+
+.item-even .section-title {
+	margin-top: 90px;
+}
+
+.item-even .img-card{
+	margin-left: 6.3333%;
+}
+
+.row-align-item .section-title *{
+	margin-bottom: 30px;
+}
+
+.row-align-item .section-title h1 {
+	color: #131313;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 23px;
+}
+
+.row-align-item .section-title .sub-heading2 {
+	color: #808080;
+    display: block;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: "Roboto",sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 22px;
+}
+
+.section-title p {
+	color: #808080;
+    display: block;
+    max-width: 400px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+}

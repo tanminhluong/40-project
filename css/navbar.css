@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-	display: flex;
+	display: none;
 	padding: 15px 20px;
 	position: fixed;
 	width: 100%;

@@ -1,0 +1,61 @@
+.dream-service{
+	padding: 100px 0;
+}
+
+.dream-service .section-title {
+	text-align: center;
+	margin-bottom: 95px;
+}
+
+/*global class used for the whole component*/
+.section-title .sub-heading {
+	font-weight: 500;
+	font-size: 14px;
+	color: #c9c9c9;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	margin-bottom: 22px;
+	
+	display: block;
+}
+
+.section-title h1 {
+	font-size: 46px;
+	font-weight: 580;
+	line-height: 58px;
+}
+
+
+.row-card {
+	display: flex;
+	margin-right: -15px;
+	margin-left: -15px;
+	box-sizing: border-box;
+}
+
+.row-card .single-card {
+	padding: 15px 20px;
+	text-align: center;
+}
+
+.single-card .img-card {
+	display: block;
+	margin-bottom: 20px;
+}
+
+.single-card h3 {
+	color: #131313;
+	margin-top: 44px;
+	margin-bottom: 20px;
+
+}
+.single-card p {
+	color: #808080;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
