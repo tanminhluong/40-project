@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-	display: none;
+	display: fixed;
 	padding: 15px 20px;
 	position: fixed;
 	width: 100%;
@@ -32,7 +32,7 @@ body {
 .header .navbar {
 	height: 70px;
 	width: 100%;
-	padding: 10px 70px;
+	padding: 10px 30px;
 	top: 0;
 	left: 0;
 }
