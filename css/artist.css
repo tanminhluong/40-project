@@ -1,3 +1,10 @@
+
+.artist {
+	margin-top: 50px;
+	margin-bottom: 100px;
+	
+}
+
 .artist-section {
 	background-image: url(../images/hanoi.jpg);
 	background-size: cover;
@@ -8,6 +15,7 @@
 	align-items: center;
 	color: #FFF;
 	flex-direction: column;
+
 }
 
 
